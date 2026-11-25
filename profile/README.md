@@ -21,9 +21,21 @@ Pure-math implementations of 2D facial landmark geometry metrics (canthal tilt a
 | **OCaml** | `facial-geometry` | opam *(PR pending)* | [facial-geometry-ocaml](https://github.com/visualcraft-lab/facial-geometry-ocaml) | — |
 | **Haskell** | `facial-geometry` | Hackage *(pending)* | [facial-geometry-hs](https://github.com/visualcraft-lab/facial-geometry-hs) | — |
 
-## Online Reference
+## `dxf-geometry` Package Matrix
 
-Companion interactive calculator and landmark guides: [Looksmax Scale](https://looksmaxscale.com/).
+Zero-dependency 2D CAD and DXF geometry libraries (polyline length, shoelace polygon area, bounding boxes, raster DPI-to-mm scale calibration, architectural 1:N drawing scale conversion, Ramer-Douglas-Peucker simplification, and ASCII DXF `LWPOLYLINE` serialization):
+
+| Ecosystem | Package / Image | Registry Page | Source Repository | Metadata / Mirror |
+| --- | --- | --- | --- | --- |
+| **Go** | `github.com/visualcraft-lab/dxf-geometry-go` | [pkg.go.dev](https://pkg.go.dev/github.com/visualcraft-lab/dxf-geometry-go) | [dxf-geometry-go](https://github.com/visualcraft-lab/dxf-geometry-go) | [deps.dev](https://deps.dev/go/github.com%2Fvisualcraft-lab%2Fdxf-geometry-go) |
+| **Rust** | `dxf-geometry` | [docs.rs](https://docs.rs/crate/dxf-geometry/latest) · [crates.io](https://crates.io/crates/dxf-geometry) | [dxf-geometry-rs](https://github.com/visualcraft-lab/dxf-geometry-rs) | [deps.dev](https://deps.dev/cargo/dxf-geometry) |
+| **Clojure** | `net.clojars.visualcraft/dxf-geometry` | [Clojars](https://clojars.org/net.clojars.visualcraft/dxf-geometry) | [dxf-geometry-clj](https://github.com/visualcraft-lab/dxf-geometry-clj) | — |
+| **Docker CLI** | `visualcraftlab/dxf-geometry-cli` | [Docker Hub](https://hub.docker.com/r/visualcraftlab/dxf-geometry-cli) | [dxf-geometry-cli](https://github.com/visualcraft-lab/dxf-geometry-cli) | — |
+
+## Online References
+
+- Facial geometry calculator and landmark guides: [Looksmax Scale](https://looksmaxscale.com/)
+- Blueprint and image-to-CAD converter: [ImgToCAD](https://imgtocad.com/)
 
 ## License
 
