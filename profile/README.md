@@ -16,7 +16,7 @@ Pure-math implementations of 2D facial landmark geometry metrics (canthal tilt a
 | **Python** | `facial-geometry` | [PyPI](https://pypi.org/project/facial-geometry/) | [facial-geometry-py](https://github.com/visualcraft-lab/facial-geometry-py) | [deps.dev](https://deps.dev/pypi/facial-geometry) · [Snyk](https://snyk.io/advisor/python/facial-geometry) |
 | **TypeScript** | `@visualcraft/facial-geometry` | [JSR](https://jsr.io/@visualcraft/facial-geometry) | [facial-geometry-ts](https://github.com/visualcraft-lab/facial-geometry-ts) | — |
 | **Lua** | `facial-geometry` | [LuaRocks](https://luarocks.org/modules/wittezc/facial-geometry) | [facial-geometry-lua](https://github.com/visualcraft-lab/facial-geometry-lua) | — |
-| **Swift** | `FacialGeometry` | Swift Package Index *(PR pending)* | [facial-geometry-swift](https://github.com/visualcraft-lab/facial-geometry-swift) | — |
+| **Swift** | `FacialGeometry` | [Swift Package Index](https://swiftpackageindex.com/visualcraft-lab/facial-geometry-swift) | [facial-geometry-swift](https://github.com/visualcraft-lab/facial-geometry-swift) | — |
 | **Typst** | `visage-metric` | Typst Universe *(PR pending)* | [visage-metric-typst](https://github.com/visualcraft-lab/visage-metric-typst) | — |
 | **OCaml** | `facial-geometry` | opam *(PR pending)* | [facial-geometry-ocaml](https://github.com/visualcraft-lab/facial-geometry-ocaml) | — |
 | **Haskell** | `facial-geometry` | Hackage *(pending)* | [facial-geometry-hs](https://github.com/visualcraft-lab/facial-geometry-hs) | — |
