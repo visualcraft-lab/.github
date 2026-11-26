@@ -28,6 +28,10 @@ Zero-dependency 2D CAD and DXF geometry libraries (polyline length, shoelace pol
 | **Rust** | `dxf-geometry` | [docs.rs](https://docs.rs/crate/dxf-geometry/latest) · [crates.io](https://crates.io/crates/dxf-geometry) | [dxf-geometry-rs](https://github.com/visualcraft-lab/dxf-geometry-rs) | [deps.dev](https://deps.dev/cargo/dxf-geometry) |
 | **Clojure** | `net.clojars.visualcraft/dxf-geometry` | [Clojars](https://clojars.org/net.clojars.visualcraft/dxf-geometry) | [dxf-geometry-clj](https://github.com/visualcraft-lab/dxf-geometry-clj) | — |
 | **Docker CLI** | `visualcraftlab/dxf-geometry-cli` | [Docker Hub](https://hub.docker.com/r/visualcraftlab/dxf-geometry-cli) | [dxf-geometry-cli](https://github.com/visualcraft-lab/dxf-geometry-cli) | — |
+| **D (DUB)** | `dxf-geometry` | [code.dlang.org](https://code.dlang.org/packages/dxf-geometry) | [dxf-geometry-d](https://github.com/visualcraft-lab/dxf-geometry-d) | — |
+| **Python** | `cad-scale-dxf` | [PyPI](https://pypi.org/project/cad-scale-dxf/) | [dxf-geometry-py](https://github.com/visualcraft-lab/dxf-geometry-py) | [deps.dev](https://deps.dev/pypi/cad-scale-dxf) |
+| **TypeScript** | `@visualcraft/dxf-geometry` | [JSR](https://jsr.io/@visualcraft/dxf-geometry) | [dxf-geometry-ts](https://github.com/visualcraft-lab/dxf-geometry-ts) | — |
+| **Lua** | `dxf-geometry` | [LuaRocks](https://luarocks.org/modules/wittezc/dxf-geometry) | [dxf-geometry-lua](https://github.com/visualcraft-lab/dxf-geometry-lua) | — |
 
 ## Online References
 
